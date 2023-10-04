@@ -2,4 +2,7 @@
     <string name="app_name">Zhenzheng\'s Android Labs</string>
     <string name="hello_message">Hello World！</string>
     <string name="button_message">I‘m a button</string>
+    <string name="hint_text">I‘m a button</string>
+    <string name="editmessage">"I\'m an EditText"</string>
+    <string name="question">Do you drink coffee?</string>
 </resources>
